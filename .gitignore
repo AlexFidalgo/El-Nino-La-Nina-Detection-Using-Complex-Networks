@@ -2,3 +2,5 @@
 *.docx
 *.nc
 *.csv
+*.pkl
+*.h5
